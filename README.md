@@ -1,6 +1,8 @@
-# 汉字小花园 🌷
+# 汉字小花园 · _nerissa 🌷
 
 给还不会拼音的小朋友玩的汉字键盘小游戏。跟着亮起的字母打出汉字，或者听声音找汉字；每完成一个字，就在花园里种一朵花。
+
+Made by **_nerissa** · [GitHub](https://github.com/xuenerissa-png/hanzi-garden_nerissa)
 
 ## 玩法
 
